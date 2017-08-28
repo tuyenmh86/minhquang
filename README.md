@@ -1,2 +1,0 @@
-# minhquang
-minh quang website 
